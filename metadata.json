@@ -1,0 +1,6 @@
+{
+  "name": "StyleSync AI",
+  "description": "Smart fashion assistant recommending personalized outfits based on your wardrobe, weather, occasion, and color theory using Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

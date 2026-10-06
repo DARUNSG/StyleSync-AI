@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background Emblem Circle in #2B1D23 with #A290B7 border -->
+    <path
+        android:fillColor="#2B1D23"
+        android:strokeColor="#A290B7"
+        android:strokeWidth="2.0"
+        android:pathData="M54,4 A50,50 0 1 1 54,104 A50,50 0 1 1 54,4 Z" />
+
+    <!-- Minimalist Couture Hanger Hook in #FDF4D2 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FDF4D2"
+        android:strokeWidth="3.0"
+        android:strokeLineCap="round"
+        android:pathData="M52,35 C52,31 55,28 58,28 C61.5,28 63.5,30.5 62,34 C60.5,37 54,38 54,43 L54,46" />
+
+    <!-- StyleSync Interlocking 'S' & Couture Hanger Ribbon in #FDF4D2 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FDF4D2"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M30,56 C30,52 40,46 54,46 C68,46 78,52 78,56 C78,60 68,63 54,63 C40,63 32,67 32,73 C32,79 43,82 54,82 C66,82 75,77 75,71" />
+
+    <!-- Intersecting Lapel V-Lines in #A290B7 & #B0CDE6 -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#A290B7"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,46 L54,59 L64,46" />
+
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B0CDE6"
+        android:strokeWidth="2.0"
+        android:strokeLineCap="round"
+        android:pathData="M48,63 L54,72 L60,63" />
+
+    <!-- Central Sync Node in Rosewood #946D6D -->
+    <path
+        android:fillColor="#946D6D"
+        android:pathData="M54,61 A2.5,2.5 0 1 0 54,66 A2.5,2.5 0 1 0 54,61 Z" />
+
+    <!-- AI Sparkle / Sync Node 1 in #FDF4D2 -->
+    <path
+        android:fillColor="#FDF4D2"
+        android:pathData="M76,31 C76,34 78,36 81,36 C78,36 76,38 76,41 C76,38 74,36 71,36 C74,36 76,34 76,31 Z" />
+
+    <!-- AI Sparkle / Sync Node 2 in #B0CDE6 -->
+    <path
+        android:fillColor="#B0CDE6"
+        android:pathData="M27,66 C27,68.5 28.8,70 31,70 C28.8,70 27,71.5 27,74 C27,71.5 25.2,70 23,70 C25.2,70 27,68.5 27,66 Z" />
+</vector>
